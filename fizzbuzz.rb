@@ -15,4 +15,5 @@ def fizzbuzz(number)
   else
     response = nil
   end
+  return response
 end
